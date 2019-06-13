@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
   <a href="https://github.com/Hsins/GSheet_TFDA-Licenses-Data-Search/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/License/Hsins/GSheet_TFDA-Licenses-Data-Search.svg" />
+    <img src="https://img.shields.io/github/license/Hsins/GSheet_TFDA-Licenses-Data-Search.svg" />
   </a>
 </div>
 
